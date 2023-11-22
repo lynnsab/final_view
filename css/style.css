@@ -8,7 +8,7 @@ body {
 .welcome {
   background-color: #3f0086;
   color: white;
-  background-image: url("final_view/images/purple_background.gif");
+  background-image: url("../images/purple_background.gif");
 }
 
 h1{
